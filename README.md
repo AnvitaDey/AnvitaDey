@@ -1,19 +1,13 @@
-<div align="center">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-  <!-- Fusion 360 (using Autodesk logo) -->
-  <img src="https://cdn.worldvectorlogo.com/logos/autodesk.svg" width="40" height="40" alt="Fusion 360" />
-  <!-- ROS -->
-  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.png" width="40" height="40" alt="ROS" />
-  <!-- Tinkercad (badge workaround) -->
-  <img src="https://img.shields.io/badge/Tinkercad-%23313B3D?style=for-the-badge&logo=tinkercad&logoColor=white" height="40"/>
-  <!-- AutoCAD (fallback to Autodesk logo again) -->
-  <img src="https://img.shields.io/badge/AutoCAD-%23D22128?style=for-the-badge&logo=autodesk&logoColor=white" height="40"/>
-</div>
+## 🔧 Tools & Technologies
 
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-EDB02F?style=for-the-badge&logo=autodesk&logoColor=black)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E61F23?style=for-the-badge&logo=autodesk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-2D2D2D?style=for-the-badge&logo=OpenRobotics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 <!--
 **AnvitaDey/AnvitaDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

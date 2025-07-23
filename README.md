@@ -12,6 +12,7 @@
   <!-- AutoCAD (fallback to Autodesk logo again) -->
   <img src="https://img.shields.io/badge/AutoCAD-%23D22128?style=for-the-badge&logo=autodesk&logoColor=white" height="40"/>
 </div>
+![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
 
 

@@ -1,4 +1,13 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Autodesk_Fusion_360_Logo.svg/512px-Autodesk_Fusion_360_Logo.svg.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Robot_Operating_System_logo.svg/768px-Robot_Operating_System_logo.svg.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tinkercad_Logo.svg/1024px-Tinkercad_Logo.svg.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="40" height="40"/>
+</div>
+
 
 <!--
 **AnvitaDey/AnvitaDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

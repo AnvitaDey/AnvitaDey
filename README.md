@@ -1,12 +1,18 @@
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Autodesk_Fusion_360_Logo.svg/512px-Autodesk_Fusion_360_Logo.svg.png" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Robot_Operating_System_logo.svg/768px-Robot_Operating_System_logo.svg.png" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tinkercad_Logo.svg/1024px-Tinkercad_Logo.svg.png" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="40" height="40"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+  <!-- Fusion 360 (using Autodesk logo) -->
+  <img src="https://cdn.worldvectorlogo.com/logos/autodesk.svg" width="40" height="40" alt="Fusion 360" />
+  <!-- ROS -->
+  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.png" width="40" height="40" alt="ROS" />
+  <!-- Tinkercad (badge workaround) -->
+  <img src="https://img.shields.io/badge/Tinkercad-%23313B3D?style=for-the-badge&logo=tinkercad&logoColor=white" height="40"/>
+  <!-- AutoCAD (fallback to Autodesk logo again) -->
+  <img src="https://img.shields.io/badge/AutoCAD-%23D22128?style=for-the-badge&logo=autodesk&logoColor=white" height="40"/>
 </div>
+
 
 
 <!--
